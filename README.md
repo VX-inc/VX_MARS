@@ -16,4 +16,6 @@ The MARS has a dedicated application microcontroller (ATMEGA32U4) designed to al
   * Ambient Light Sensor (ALS)
   * USB Serial Port
 
-## Download the MARS Library
+To get started, download the MARS library above.
+
+## Application Examples
