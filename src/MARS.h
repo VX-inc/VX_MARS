@@ -2,14 +2,10 @@
  * @file MARS.h
  *
  * This library is written for the VX Inc. BlueShift headset to enable 
- * user applications.  This library includes references to hardware that 
- * may or may not be installed on the headset depending on the configuration.
- * 
- * Please insure that all devices that are referenced in code are attached to
- * the headset before use. 
+ * user applications.
  * 
  * This codebase is maintained at the following address. 
- * <https://github.com/VX-inc/VX_BlueShift-Application-Examples>.
+ * <https://github.com/VX-inc/VX_MARS>.
  *
  * For more information about the hardware referenced, please visit
  * <https://www.vx-inc.com/>

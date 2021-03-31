@@ -9,7 +9,7 @@
  * the headset before use. 
  * 
  * This codebase is maintained at the following address. 
- * <https://github.com/VX-inc/VX_BlueShift-Application-Examples>.
+ * <https://github.com/VX-inc/VX_MARS>.
  *
  * For more information about the hardware referenced, please visit
  * <https://www.vx-inc.com/>
@@ -18,7 +18,6 @@
 
 #include "Arduino.h"
 #include "MARS.h"
-#include "Wire.h"
 
 //MARS Defines
 #define MARS_BRIGHTNESS_PIN        11
