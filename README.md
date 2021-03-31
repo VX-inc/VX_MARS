@@ -19,3 +19,15 @@ The MARS has a dedicated application microcontroller (ATMEGA32U4) designed to al
 To get started, download the MARS library above.
 
 ## Application Examples
+
+### MARS_Barebones_Example
+
+This is an example sketch for use with the barebones MARS Module.  
+
+This sketch requires the base headset and at least 1 CNED installed.
+
+This application demonstrates the following:
+ - Ambient light sensor for CNED brightness control
+ - Serial port communication for system state
+ 
+ Please do not manipulate the individual ports without knowledge, this could cause damage to the hardware.
