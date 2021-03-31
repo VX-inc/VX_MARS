@@ -21,13 +21,27 @@ To get started, download the MARS library above.
 ## Application Examples
 
 ### MARS_Barebones_Example
-
 This is an example sketch for use with the barebones MARS Module.  
 
-This sketch requires the base headset and at least 1 CNED installed.
+Hardware Required: 1 CNED installed.
 
 This application demonstrates the following:
- - Ambient light sensor for CNED brightness control
- - Serial port communication for system state
+ * Ambient light sensor for CNED brightness control
+ * Serial port communication for system state
  
+### ODN-50005_Example
+This is an example sketch for use with the ODN-50005 Image Sensor Module.  
+ 
+Hardware Required: Base BlueShift headset, an ODN-50005 module installed in the
+right accessory bay, and at least 1 CNED installed.
+
+ This application demonstrates the following:
+ * Short button presses increase and decrease the display brightness
+ * Long button presses turn on and off the White and IR LEDs
+ * Double button press switches to the ambient light sensor for CNED brightness control
+ * Serial port communication for system state
+ 
+ #### Important Note
  Please do not manipulate the individual ports without knowledge, this could cause damage to the hardware.
+
+
