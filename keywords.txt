@@ -1,0 +1,8 @@
+MARS	KEYWORD1
+init	KEYWORD3
+getALSValue	KEYWORD3
+setDisplayBrightness	KEYWORD3
+setWhiteLED	KEYWORD3
+setInfraredLED	KEYWORD3
+upButtonPressed	KEYWORD3
+downButtonPressed	KEYWORD3
