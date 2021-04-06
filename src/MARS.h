@@ -1,7 +1,7 @@
 /*!
  * @file MARS.h
  *
- * This library is written for the VX Inc. BlueShift headset to enable 
+ * This library is written for the VX Inc. MARS and BlueShift to enable 
  * user applications.
  * 
  * This codebase is maintained at the following address. 
