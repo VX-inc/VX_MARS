@@ -1,7 +1,7 @@
 /*!
  * @file ODN_50005.cpp
  *
- * This library is written for the V.X. Inc. BlueShift ODN-50005 Imaging Sensor Module
+ * This library is written for the VX Inc. BlueShift ODN-50005 Imaging Sensor Module
  * 
  * Please insure that all devices that are referenced in code are attached to
  * the headset before use. 
